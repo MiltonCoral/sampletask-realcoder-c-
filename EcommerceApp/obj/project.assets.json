@@ -2975,24 +2975,25 @@
     ]
   },
   "packageFolders": {
-    "/Users/edi/.nuget/packages/": {}
+    "/home/milton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edi/Documents/Trabajo/tarea real coder c#/EcommerceApp/EcommerceApp.csproj",
+      "projectUniqueName": "/home/milton/Desktop/portafolioes/sampletask-realcoder-c-/EcommerceApp/EcommerceApp.csproj",
       "projectName": "EcommerceApp",
-      "projectPath": "/Users/edi/Documents/Trabajo/tarea real coder c#/EcommerceApp/EcommerceApp.csproj",
-      "packagesPath": "/Users/edi/.nuget/packages/",
-      "outputPath": "/Users/edi/Documents/Trabajo/tarea real coder c#/EcommerceApp/obj/",
+      "projectPath": "/home/milton/Desktop/portafolioes/sampletask-realcoder-c-/EcommerceApp/EcommerceApp.csproj",
+      "packagesPath": "/home/milton/.nuget/packages/",
+      "outputPath": "/home/milton/Desktop/portafolioes/sampletask-realcoder-c-/EcommerceApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/edi/.nuget/NuGet/NuGet.Config"
+        "/home/milton/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3011,7 +3012,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -3045,7 +3046,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.108/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
